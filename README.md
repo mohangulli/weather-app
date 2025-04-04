@@ -65,8 +65,3 @@ weather-app/
 ## Contributions
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, reach out to [your email or GitHub profile].
