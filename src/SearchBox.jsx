@@ -10,7 +10,7 @@ export default function SearchBox({UpdateInfo})
 
 
     const API_URL="http://api.openweathermap.org/data/2.5/weather";
-    const API_KEY="73b0ab8c672a04e1cc6c433eb285d5ed";
+    const API_KEY="Api key";
     
 
    
